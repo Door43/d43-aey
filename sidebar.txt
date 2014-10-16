@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aey:home|Door43 (aey)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aey|d43-aey repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aey/archive/master.zip|d43-aey.zip]]
+
+**Recent Changes**
+{{changes>ns = aey}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aey|Ethnologue data]]
+
